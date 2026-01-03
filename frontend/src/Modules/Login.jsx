@@ -1,10 +1,10 @@
-import img1 from "../../public/assert/Login/profile.png"
+// import img1 from "../../public/assert/Login/profile.png"
 
 const Login = () => {
   return (
     <>
         <div>
-          <img src={img1} alt="image not found" className="Login_profile_img" />
+          <img src="" alt="image not found" className="Login_profile_img" />
         </div>
 
         <div>
