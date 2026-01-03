@@ -3,3 +3,8 @@
 @tailwind utilities; */
 
 @import "tailwindcss";
+
+
+.Login_profile_img {
+    width: 100px;
+}
